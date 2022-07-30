@@ -1,0 +1,55 @@
+/* product start here  */
+
+#sldrr{
+	background-image:url('../images/web2.jpg ');
+	height:600px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:top right;
+}.txxt{
+	/* border:2px solid blue; */
+	width:40%;
+	margin-left:2%;
+	/* background-color:gray; */
+}
+.sldrr-title{
+	color:#ffffff;
+	font-size:20px;
+	font-family:tahoma;
+	/* margin-left:10%; */
+}
+
+.sldrr-title span{
+	color:#ff0000;
+	font-weight:bold;
+	font-size: 18px;
+	
+}
+.sldrr-titleee{ 
+	color:black;
+	font-size:32px;
+	font-family:tahoma;
+}
+.sldrr-titleee span{
+	color:red;
+	/* font-weight:bold; */
+}
+
+.sldrr-contnt p{
+	width:50%;
+	color:#eee;
+	/* text-align:justify; */
+	font-size:18px;
+}
+#sldrr button{
+	background-color:red;
+	width:40%;
+	color:white;
+	padding:2% 4%;
+	border:none;
+}
+
+#sldrr button:hover{
+	background-color:transparent;
+	border:2px solid black;
+}
